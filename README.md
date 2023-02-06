@@ -2,10 +2,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/yaziciomer/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/yaziciom/bucket/master/icons/social/linked.svg"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/linked.svg"
       alt="omer yazici" height="30" width="40" /></a>
  <a href="https://github.com/yaziciom" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/yaziciom/bucket/master/icons/social/github.svg"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/social/github.svg"
       alt="omer yazici" height="30" width="40" /></a>
 </p>
 
@@ -70,3 +70,4 @@ DevOps & SysOps: Ansible, Jenkins, Docker, K8s, AWS, Azure
 
 
 ---
+

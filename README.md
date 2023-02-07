@@ -57,7 +57,7 @@ DevOps & SysOps: Ansible, Jenkins, Docker, K8s, AWS, Azure
 <p align="left">
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/ansible.svg"
-      alt="alperen erturk" height="30" width="40" />
+      alt="alperen erturk" height="30" width="30" />
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/jenkins.svg"
       alt="alperen erturk" height="30" width="40" />

@@ -28,10 +28,16 @@ Languages: Golang, Python, Bash Script, Solidity
 
 <p align="left">
  <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/golang.svg"
+      alt="alperen erturk" height="30" width="40" />
+ <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/python.svg"
       alt="alperen erturk" height="30" width="40" />
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/bash.svg"
+      alt="alperen erturk" height="30" width="40" />
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/solidity.svg"
       alt="alperen erturk" height="30" width="40" />
 </p>
 
@@ -49,6 +55,9 @@ Data Visualization: Grafana, Kibana
 DevOps & SysOps: Ansible, Jenkins, Docker, K8s, AWS, Azure 
 
 <p align="left">
+ <img align="center"
+      src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/ansible.svg"
+      alt="alperen erturk" height="30" width="40" />
  <img align="center"
       src="https://raw.githubusercontent.com/alperenerturk/bucket/master/icons/techstack/jenkins.svg"
       alt="alperen erturk" height="30" width="40" />
